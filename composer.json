@@ -1,0 +1,15 @@
+{
+    "name": "admin/teste",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Admin\\Teste\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "portela"
+        }
+    ],
+    "require": {}
+}
